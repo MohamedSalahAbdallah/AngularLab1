@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './contact-me.component.css'
 })
 export class ContactMeComponent {
-
+  backGroundImage:string="medium.webp";
 }
